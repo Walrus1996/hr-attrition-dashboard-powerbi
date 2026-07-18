@@ -81,14 +81,14 @@ Provides deeper analysis of employee characteristics associated with higher attr
 
 ## Dataset
 
-IBM HR Analytics Employee Attrition & Performance Dataset
 
-Source:
+This project is built using the publicly available IBM HR Analytics Employee Attrition & Performance dataset.
 
+Original dataset:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-This project uses the publicly available IBM HR Analytics Employee Attrition & Performance dataset. 
-The dataset is not redistributed in this repository. Please obtain it from the original Kaggle source before reproducing this analysis.
+This repository is shared for educational and portfolio purposes.
+
 ---
 
 ## Dashboard Preview
