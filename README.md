@@ -87,8 +87,8 @@ Source:
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-The dataset used in this project is publicly available on Kaggle. This repository does not redistribute the original dataset.
-
+This project uses the publicly available IBM HR Analytics Employee Attrition & Performance dataset. 
+The dataset is not redistributed in this repository. Please obtain it from the original Kaggle source before reproducing this analysis.
 ---
 
 ## Dashboard Preview
