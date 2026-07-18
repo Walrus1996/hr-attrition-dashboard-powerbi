@@ -87,6 +87,8 @@ Source:
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
+The dataset used in this project is publicly available on Kaggle. This repository does not redistribute the original dataset.
+
 ---
 
 ## Dashboard Preview
